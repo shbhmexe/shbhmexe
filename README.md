@@ -1,7 +1,7 @@
 ![logo](https://media.licdn.com/dms/image/v2/D4D16AQFu3C6H-8_7pQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726918195255?e=1735171200&v=beta&t=4ugeJZiI_DVon8TO3pxdomqz2j-N2fZaCgnhKDHNY4Y)
 
 <h1 align="center">Hi 👋, I'm Shubham Shukla</h1>
-<h3 align="center">"A passionate Full Stack Developer from India with a strong interest in open-source contributions. I am enthusiastic about collaborating on projects that promote technological innovation and community-driven development. Actively contributing to open-source has not only enhanced my skills but also fueled my passion for solving real-world problems through code. Always eager to dive into new challenges and contribute to meaningful projects!"</h3>
+<h3 align="center">A passionate Full Stack Developer from India with a strong interest in open-source contributions. I am enthusiastic about collaborating on projects that promote technological innovation and community-driven development. Actively contributing to open-source has not only enhanced my skills but also fueled my passion for solving real-world problems through code. Always eager to dive into new challenges and contribute to meaningful projects!</h3>
 <img align="right" alt="code" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shbhmexe&label=Profile%20views&color=0e75b6&style=flat" alt="shbhmexe" /> </p>
 
