@@ -1,4 +1,5 @@
-![logo](https://media.licdn.com/dms/image/v2/D4D16AQFu3C6H-8_7pQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726918195255?e=1735171200&v=beta&t=4ugeJZiI_DVon8TO3pxdomqz2j-N2fZaCgnhKDHNY4Y)
+![logo](![image](https://github.com/user-attachments/assets/544e1ea4-e869-4360-83a1-b2ff7455ab54)
+)
 
 <h1 align="center">Hi 👋, I'm Shubham Shukla</h1>
 <h3 align="center">A passionate Full Stack Developer from India with a strong interest in open-source contributions. I am enthusiastic about collaborating on projects that promote technological innovation and community-driven development. Actively contributing to open-source has not only enhanced my skills but also fueled my passion for solving real-world problems through code. Always eager to dive into new challenges and contribute to meaningful projects!</h3>
