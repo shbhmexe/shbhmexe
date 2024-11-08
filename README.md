@@ -1,5 +1,5 @@
-![logo](![image](https://github.com/user-attachments/assets/544e1ea4-e869-4360-83a1-b2ff7455ab54)
-)
+![Screenshot 2024-11-08 154134](https://github.com/user-attachments/assets/86cb00b3-2690-413b-8d5a-ba5365668a17)
+
 
 <h1 align="center">Hi 👋, I'm Shubham Shukla</h1>
 <h3 align="center">A passionate Full Stack Developer from India with a strong interest in open-source contributions. I am enthusiastic about collaborating on projects that promote technological innovation and community-driven development. Actively contributing to open-source has not only enhanced my skills but also fueled my passion for solving real-world problems through code. Always eager to dive into new challenges and contribute to meaningful projects!</h3>
