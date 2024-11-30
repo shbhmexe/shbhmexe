@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shbhmexe/Projects-2024](https://github.com/shbhmexe/Projects-2024)
 
-- 📫 How to reach me **shubhushukla586@gmail.com**
+- 📫 How to reach me **`shubhushukla586@gmail.com`**
 
 - ⚡ Fun fact **I write Debug Code**
 
