@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **java script frame works and exploring backend deep**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shbhmexe/Projects-2024](https://github.com/shbhmexe/Projects-2024)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/shbhmexe/Projects-2024)
 
 - 📫 How to reach me **`shubhushukla586@gmail.com`**
 
