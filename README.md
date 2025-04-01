@@ -27,8 +27,6 @@
   
 - 👯 I'm looking to collaborate on **open-source projects that drive technological innovation**
   
-- 📝 I regularly write articles on [dev.to/shbhmexe](https://dev.to/shbhmexe)
-  
 - 💬 Ask me about **React, Node.js, MongoDB, and AWS**
   
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shbhmexe/Project-2025)
