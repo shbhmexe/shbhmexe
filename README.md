@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Shukla;Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Shubham+Shukla;Full+Stack+Developer;AI+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -21,13 +21,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🔭 I'm currently working on **innovative full-stack projects**
+- 🔭 I'm currently working on **building scalable web applications**
   
-- 🌱 I'm currently learning **JavaScript frameworks and diving deep into backend development**
+- 🌱 I'm currently learning **AI/ML integration with web apps and cloud architecture**
   
-- 👯 I'm looking to collaborate on **open-source projects that drive technological innovation**
+- 👯 I'm looking to collaborate on **innovative projects that solve real-world problems**
   
-- 💬 Ask me about **React, Node.js, MongoDB, and AWS**
+- 💬 Ask me about **React, Next.js, Node.js, and Cloud Services**
   
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shbhmexe/Project-2025)
   
@@ -110,8 +110,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   
-  <h3 style="color: #39FF14;">DevOps & Tools</h3>
+  <h3 style="color: #39FF14;">DevOps & Cloud</h3>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -157,6 +159,9 @@
   <a href="mailto:shubhushukla586@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
   </a>
+  <a href="https://shbhmexe.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio" />
+  </a>
 </div>
 
 <hr>
@@ -164,7 +169,9 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Coming soon...]
+- [Building Modern Web Applications with React and Node.js]()
+- [Implementing AI Features in Web Applications]()
+- [The Future of Full Stack Development]()
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
