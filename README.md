@@ -136,7 +136,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shbhmexe&theme=merko" alt="GitHub Streak" />
 </div>
 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+ <a href="/">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shbhmexe&theme=merko" alt="Shubham's github activity graph" width="100%" />
   </a>
   
