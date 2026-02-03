@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,21&height=200&section=header&text=Shubham%20Shukla&fontSize=50&fontColor=fff&animation=twinkling" alt="Header" width="100%"/>
+  <img src="assets/gh-space-shooter.gif" alt="GitHub Space Shooter"/>
 </div>
 
 <div align="center">
