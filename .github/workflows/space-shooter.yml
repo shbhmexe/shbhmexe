@@ -14,6 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
+      - name: Create assets directory
+        run: mkdir -p assets
+      
       - name: Generate Space Shooter GIF
         uses: czl9707/gh-space-shooter@v1
         with:
