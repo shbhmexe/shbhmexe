@@ -136,15 +136,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shbhmexe&theme=merko" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shbhmexe&show_icons=true&theme=merko" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shbhmexe&layout=compact&theme=merko" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shbhmexe&theme=matrix&row=1&column=6" alt="trophy" />
-</div>
-
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shbhmexe&theme=merko" alt="Shubham's github activity graph" width="100%" />
+  </a>
+  
 <hr>
 
 ## 📫 Connect with me
