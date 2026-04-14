@@ -21,7 +21,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🔭 I'm currently working on **building scalable web applications**
+- 🔭 I'm currently working on **building scalable web application**
   
 - 🌱 I'm currently learning **AI/ML integration with web apps and cloud architecture**
   
